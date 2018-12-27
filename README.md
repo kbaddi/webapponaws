@@ -2,6 +2,6 @@
 
 ## Provision ec2 on aws
 
-- Terraform to provision Infrastructure
-    - Start up script to install required tools and clone github repo.
-- Ansible to install Webserver
+- **Terraform** to provision Infrastructure
+    - _Userdata_ script to install required tools and clone github repo.
+- **Ansible** to install Webserver
