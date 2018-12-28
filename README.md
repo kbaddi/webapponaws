@@ -8,3 +8,6 @@
 
 
 ## Configuration
+
+- Deploy apache using ansible
+
